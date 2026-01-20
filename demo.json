@@ -1,1 +1,5 @@
-{"name": "shubham", "marks": [34, 56, 32, 89, 100]}
+{
+    "name": "Shubham Jha",
+    "age": 20,
+    "gender": "Male"
+}
